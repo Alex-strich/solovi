@@ -1,0 +1,6 @@
+sdk.dir=/Users/minh/Library/Android/sdk
+sdk.cmake=/Users/minh/Library/Android/sdk/cmake/3.18.1
+flutter.sdk=/Users/minh/flutter
+flutter.buildMode=debug
+flutter.versionName=1.0.0
+flutter.versionCode=3000
